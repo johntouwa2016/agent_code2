@@ -1,0 +1,7 @@
+#!/binbash
+
+lscpu
+nproc
+cat /etc/*release
+lsblk
+
